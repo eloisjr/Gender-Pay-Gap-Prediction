@@ -21,6 +21,8 @@ The project provides visualizations illustrating the predicted trajectory of the
 
 ![image](https://github.com/eloisjr/The-Gender-Pay-Gap/assets/81710422/ddf1c1d0-79e9-4b37-9ae9-b936b4232c26)
 
+You can also visit my post on LinkedIn website: https://www.linkedin.com/feed/update/urn:li:activity:7171385694752288768/
+
 
 
 **Data Source**
