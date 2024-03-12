@@ -18,7 +18,9 @@ The data presented in the WGEA Data Explorer originates from employer reports su
 **Results and Visualization**
 
 The project provides visualizations illustrating the predicted trajectory of the gender pay gap, leveraging real-world data from WGEA. These insights can be instrumental in informing policies and initiatives aimed at reducing workplace gender inequalities within the context of the Australian workforce.
+
 ![image](https://github.com/eloisjr/The-Gender-Pay-Gap/assets/81710422/ddf1c1d0-79e9-4b37-9ae9-b936b4232c26)
+
 
 
 **Data Source **
