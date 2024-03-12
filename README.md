@@ -23,7 +23,7 @@ The project provides visualizations illustrating the predicted trajectory of the
 
 
 
-**Data Source **
+**Data Source**
 
 For more detailed information and to start exploring gender equality data, please visit the WGEA official website.
 
